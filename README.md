@@ -15,6 +15,7 @@ The solution follows best practices for secure network communication in Azure by
 ---
 
 ## 🧩 Architecture
+<img width="951" height="546" alt="Screen Shot 2025-07-30 at 6 51 37 PM" src="https://github.com/user-attachments/assets/392bdeae-2f3e-43a8-9d6d-bee240028bcd" />
 
 ![Architecture Diagram](./secure-azure-webapp-sql-diagram.png)
 
