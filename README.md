@@ -31,9 +31,9 @@ The solution follows best practices for secure network communication in Azure by
 
 1. Create a resource group and VNet in Azure.  
 2. Deploy Azure App Service and Azure SQL Database.  
-3. Configure **Private Endpoint** for the SQL Database.  
-4. Set up **Private DNS Zone** and link it to the VNet.  
-5. Deploy **Bicep template** (optional) for automated IaC setup.  
+3. Configure Private Endpoint for the SQL Database.  
+4. Set up Private DNS Zone and link it to the VNet.  
+5. Deploy Bicep template (optional) for automated IaC setup.  
 6. Verify private connectivity via `nslookup` and Azure Portal diagnostics.
 
 ---
