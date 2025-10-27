@@ -1,16 +1,16 @@
 #  Secure Azure Web App + SQL Integration
 
-This project demonstrates how to securely connect an **Azure Web App (.NET)** to an **Azure SQL Database** using **Private Endpoints**, **Virtual Networks (VNet)**, and **custom DNS**—eliminating all public exposure.
+This project demonstrates how to securely connect an Azure Web App (.NET) to an Azure SQL Database using Private Endpoints, Virtual Networks (VNet), and custom DNS—eliminating all public exposure.
 
 ---
 
 ## 🧠 Overview
 
 The solution follows best practices for secure network communication in Azure by:
-- Hosting the Web App inside an **App Service Environment** connected to a **VNet**.
-- Using **Private Link** to connect to the SQL Database without a public IP.
-- Implementing **custom DNS resolution** to route traffic through private endpoints.
-- Enforcing **Zero Trust** by denying public network access to Azure SQL.
+- Hosting the Web App inside an App Service Environment connected to a VNet.
+- Using Private Link to connect to the SQL Database without a public IP.
+- Implementing custom DNS resolution to route traffic through private endpoints.
+- Enforcing Zero Trust by denying public network access to Azure SQL.
 
 ---
 
